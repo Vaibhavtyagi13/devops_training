@@ -1,0 +1,1 @@
+The 'comm' command compares two files or streams. By default, 'comm' will always display three columns. First column indicates non-matching items of first file, second column indicates non-matching items of second file, and third column indicates matching items of both the files
